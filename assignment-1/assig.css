@@ -1,0 +1,40 @@
+h1{
+    color: rgb(228, 19, 19);
+}
+h3{
+    color: rgb(228, 46, 13);
+}
+ol
+{
+    color: rgb(148, 20, 20);
+    font-weight: 400;
+    font-weight: 500;
+}
+ul{
+    color: maroon;
+    letter-spacing: 6px;
+    line-height:10xp;
+    font-weight: 500;
+   
+}
+p{
+    color: #834d07;
+    font-weight: 500;
+    
+}
+a{
+    font-weight: bold;
+    color: red;
+    background-color: yellow;
+    text-decoration: none;
+}
+.ex
+{
+    font-weight: bold;
+    text-decoration: line-through;
+}
+.ex1
+{
+    background-color: yellow;
+
+}
